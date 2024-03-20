@@ -1,4 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let message = "hello";
+let user_name = " sir zia khan";
 console.log(message);
+console.log(message + user_name);
+export {};
